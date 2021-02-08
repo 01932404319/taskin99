@@ -1,0 +1,105 @@
+/*
+ Rahman zayed shezan
+ CSE 06607698
+*/
+
+body {
+	
+	 
+
+}
+
+#page
+{
+  
+    height:auto;
+    color:white;
+	position: fixed;
+    width: 100%;
+    background-color:#fc0303;
+	z-index:+9999;
+	margin-top:-55px;
+	
+}
+
+
+
+h1{
+	background-color:#f06565;
+	 
+	}
+	p{
+		font-size:18px;
+	}
+
+*
+{
+  margin: 0 auto 0 auto; 
+  
+}
+
+
+.nav
+{
+text-align:center;
+margin-top:65px;
+font-size:20px;
+margin-left:-10px;
+width:121px;
+height: 35px;
+line-height: 35px;
+float:left;
+color:black;
+background-color:#fc0303;
+ 
+}
+
+
+.nav a
+{
+text-decoration:none;
+color:white;
+}
+
+
+.contentBox
+{
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    background: white;
+    text-align:center;
+}
+
+.contentBox .innerBox
+{margin-left: 10px;
+    position: relative;
+    margin-top: 10px;
+    width: 66%;
+    float: left;
+    height: auto;
+    top: 10px;
+   
+    background-repeat: repeat-x;
+    padding-bottom: 35px;
+}
+
+
+.inner-right{
+	text-align:justify;
+    width: 30%;
+    float: left;
+    padding: 24px;
+}
+.inner-right img{
+	width:100%;
+	height:300px;
+}
+
+footer {
+  text-align: center;
+  padding: 25px;
+  background-color:black;
+  color: white;
+}
+
